@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/common/header.js"],"names":[],"mappings":"2FAAA,gCAEe,4BAAM","file":"component---src-pages-common-header-js-800b3f82deaf4d1279d3.js","sourcesContent":["import React from \"react\"\n\nexport default () => <header>headers</header> "],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"3BCw":function(n,e,t){"use strict";t.r(e);var o=t("q1tI"),r=t.n(o);e.default=function(){return r.a.createElement("footer",null,"footer")}}}]);
+//# sourceMappingURL=component---src-pages-common-footer-js-27f4b5e33b184549f115.js.map

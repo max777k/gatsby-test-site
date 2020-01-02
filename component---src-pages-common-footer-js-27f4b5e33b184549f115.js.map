@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/common/footer.js"],"names":[],"mappings":"6FAAA,gCAEe,4BAAM","file":"component---src-pages-common-footer-js-27f4b5e33b184549f115.js","sourcesContent":["import React from \"react\"\n\nexport default () => <footer>footer</footer>"],"sourceRoot":""}
